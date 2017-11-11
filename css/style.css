@@ -7,7 +7,6 @@ body {
 a:active, a:visited, a:focus  {
 	outline: none;
 	text-decoration: none;
-	color: #fff;
 }
 .main {
   
